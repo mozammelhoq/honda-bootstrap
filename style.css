@@ -1,0 +1,26 @@
+.honda{
+    background-color:#264653;
+    width: ;
+    top: ;
+    left: 86px;
+}
+
+.pic{
+    width: 25%;
+    height: auto;
+
+    filter: grayscale(100%);
+}
+.card-img{
+    width:15%;
+    height: auto;
+}
+.frequently{
+  width: 1125px;
+  height:495px ;
+  top: 3164px;
+  left:157px;
+} 
+.footer area{
+    background-color: #0B0D17
+}
